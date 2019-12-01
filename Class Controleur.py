@@ -18,5 +18,5 @@ c1.verifier()
 
 c2 = Controleur(10000000, 500000)
 c2.verifier()
-print("A reverifier en cas de problème.........")
+print("A reverifier en cas de problème....")
 
